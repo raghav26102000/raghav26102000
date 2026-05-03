@@ -6,7 +6,7 @@
 
 **`// Full Stack · GenAI · Mobile · BI · 3D Web`**
 
-*Delhi, India &nbsp;·&nbsp; Gurgaon / Bangalore / Remote*
+*Delhi, India &nbsp;·&nbsp; Delhi NCR / Bangalore / Remote*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--agarwal26-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-agarwal26)
 [![Profile Views](https://komarev.com/ghpvc/?username=raghav26102000&style=flat-square&color=58D68D&label=Profile+Views)](https://github.com/raghav26102000)
