@@ -99,7 +99,7 @@ const developer = {
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=raghav26102000&theme=github-dark-blue&hide_border=true&background=010409&ring=58D68D&fire=58D68D&currStreakLabel=58D68D)](https://git.io/streak-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raghav26102000&theme=onedark&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
