@@ -21,9 +21,9 @@
 const developer = {
   name:      "Raghav Agarwal",
   role:      "Full Stack + GenAI + BI Engineer",
-  stack:     ["React", "Next.js", "FastAPI", "LangChain", "Flutter"],
+  stack:     ["React", "Next.js", "FastAPI", "LangChain", "Flutter", "Django", "Langraph"],
   analytics: ["Power BI", "DAX", "RLS", "Star schema", "SQL"],
-  ai:        ["RAG pipelines", "FAISS", "Sentence-BERT", "Cross-encoder re-ranking"],
+  ai:        ["RAG pipelines", "FAISS", "Sentence-BERT", "Cross-encoder re-ranking", "MCP"],
   creative:  ["Three.js", "WebGL", "GLSL shaders"],
   mobile:    ["Flutter", "Dart", "Kotlin", "Android"],
   location:  "Delhi · Gurgaon · Bangalore · Remote",
