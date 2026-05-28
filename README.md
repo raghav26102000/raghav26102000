@@ -84,12 +84,12 @@ const developer = {
 
 | Project | What it does | Stack | Impact |
 |---------|-------------|-------|--------|
-| **[DocuMind AI](https://github.com/raghav26102000)** | RAG document intelligence · 1,000+ PDFs · hybrid BM25 + dense · cross-encoder re-ranking | Python · FAISS · LangChain · FastAPI | `87% accuracy` · `<2s @ 500 users` |
+| **[DocuMind AI](https://github.com/raghav26102000/DocuMind-AI)** | RAG document intelligence · 1,000+ PDFs · hybrid BM25 + dense · cross-encoder re-ranking | Python · FAISS · LangChain · FastAPI | `87% accuracy` · `<2s @ 500 users` |
 | **Enterprise AI Dashboard** | Multi-tenant AI + analytics for 50+ enterprise clients · agentic workflows | React · Next.js · FastAPI · GCP | `35% latency ↓` |
 | **BI Analytics Suite** | Power BI dashboards · advanced DAX · Row-Level Security · star schema · automated ETL | Power BI · DAX · M Query · SQL | `Multi-role RLS secured` |
-| **Cross-Platform Mobile** | Production Flutter apps for iOS & Android · native Kotlin Android | Flutter · Dart · Kotlin | `iOS + Android` |
-| **3D Web Experiences** | Particle systems · GLSL shaders · physics-driven Three.js scenes at 60fps | Three.js · WebGL · GLSL | `60fps interactive` |
-| **Financial APIs** | Financial-grade REST APIs + dashboards · PostgreSQL optimisation | Python · PostgreSQL · React | `+20% query perf` |
+| **[Cross-Platform Mobile](https://github.com/raghav26102000/LivelyThree-App)** | Production Flutter apps for iOS & Android · native Kotlin Android | Flutter · Dart · Kotlin | `iOS + Android` |
+| **[3D Web Experiences](https://github.com/raghav26102000/LivelyThreeEarth)** | Particle systems · GLSL shaders · physics-driven Three.js scenes at 60fps | Three.js · WebGL · GLSL | `60fps interactive` |
+| **[Financial APIs](https://github.com/raghav26102000/AuditFlow)** | Financial-grade REST APIs + dashboards · PostgreSQL optimisation | Python · PostgreSQL · React | `+20% query perf` |
 
 ---
 
