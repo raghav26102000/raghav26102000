@@ -20,7 +20,7 @@
 ```typescript
 const developer = {
   name:      "Raghav Agarwal",
-  role:      "Full Stack + GenAI + BI Engineer",
+  role:      "Full Stack + GenAI + BI Engineer + Product Manager",
   stack:     ["React", "Next.js", "FastAPI", "LangChain", "Flutter", "Django", "Langraph"],
   analytics: ["Power BI", "DAX", "RLS", "Star schema", "SQL"],
   ai:        ["RAG pipelines", "FAISS", "Sentence-BERT", "Cross-encoder re-ranking", "MCP"],
