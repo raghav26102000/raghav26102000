@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=700&color=58D68D&center=true&vCenter=true&width=680&lines=%3E+full_stack_engineer.init()%3B;%3E+rag_pipeline.build(docs%3D1000)%3B;%3E+flutter_app.deploy(%22iOS%22%2C+%22Android%22)%3B;%3E+three_js.render(scene%2C+fps%3D60)%3B;%3E+power_bi.publish(dashboard%2C+rls%3Dtrue)%3B;%3E+langchain.chain(llm%2C+retriever)%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=700&color=58D68D&center=true&vCenter=true&width=680&lines=%3E+full_stack_engineer.init()%3B;%3E+rag_agent.build(retriever%2C+llm)%3B;%3E+multi_llm.route(%22openai%22%2C+%22anthropic%22%2C+%22gemini%22)%3B;%3E+flutter_app.deploy(%22iOS%22%2C+%22Android%22)%3B;%3E+power_bi.publish(dashboard%2C+rls%3Dtrue)%3B;%3E+web3.connect(%22metamask%22)%3B)](https://git.io/typing-svg)
 
 # RAGHAV AGARWAL
 
-**`// Full Stack · GenAI · Mobile · BI · 3D Web`**
+**`// Full Stack · GenAI Agents · Mobile · BI · Web3`**
 
-*Delhi, India &nbsp;·&nbsp; Delhi NCR / Bangalore / Remote*
+*Delhi NCR / Bangalore / Remote*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--agarwal26-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-agarwal26)
 [![Profile Views](https://komarev.com/ghpvc/?username=raghav26102000&style=flat-square&color=58D68D&label=Profile+Views)](https://github.com/raghav26102000)
@@ -20,12 +20,14 @@
 ```typescript
 const developer = {
   name:      "Raghav Agarwal",
-  role:      "Full Stack + GenAI + BI Engineer + Product Manager",
-  stack:     ["React", "Next.js", "FastAPI", "LangChain", "Flutter", "Django", "Langraph"],
-  analytics: ["Power BI", "DAX", "RLS", "Star schema", "SQL"],
-  ai:        ["RAG pipelines", "FAISS", "Sentence-BERT", "Cross-encoder re-ranking", "MCP"],
-  creative:  ["Three.js", "WebGL", "GLSL shaders"],
-  mobile:    ["Flutter", "Dart", "Kotlin", "Android"],
+  role:      "Full Stack + GenAI Engineer + BI + Product",
+  stack:     ["React", "Next.js", "FastAPI", "Django REST", "LangChain", "LangGraph", "Flutter"],
+  ai:        ["RAG pipelines", "Multi-LLM orchestration", "Agentic workflows", "OCR + validation", "Vector search"],
+  llms:      ["OpenAI", "Anthropic", "Google Gemini", "Ollama", "Azure OpenAI"],
+  analytics: ["Power BI", "DAX", "RLS", "Star schema", "Pandas"],
+  infra:     ["Docker", "Redis", "Celery", "PostgreSQL", "MongoDB", "Supabase", "AWS S3"],
+  mobile:    ["Flutter", "Dart", "Kotlin"],
+  web3:      ["Solidity", "Hardhat", "Ethers.js"],
   location:  "Delhi · Gurgaon · Bangalore · Remote",
 }
 ```
@@ -33,9 +35,9 @@ const developer = {
 ## `❯ node metrics.js`
 
 ```bash
-✓  API latency       ↓ 35%    # enterprise AI platform — 50+ clients
-✓  Query performance ↑ 20%    # financial APIs — PostgreSQL optimisation
-✓  RAG accuracy        87%    # DocuMind AI — 1,000+ PDFs processed
+✓  API latency       ↓ 35%    # enterprise AI platform — 50+ clients (Cues Simplify IT)
+✓  Query performance ↑ 20%    # PostgreSQL optimisation, financial-grade backends
+✓  RAG accuracy        87%    # document intelligence pipeline, hybrid retrieval
 ✓  Response time      <2s     # 500 concurrent users, zero downtime
 ```
 
@@ -43,63 +45,91 @@ const developer = {
 
 ## 🛠 Tech Arsenal
 
-### ⚛️ Frontend & 3D Web
+### ⚛️ Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-049EF4?style=flat-square&logo=threedotjs&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-
-### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### 🤖 Backend & AI
+### 🤖 Backend & AI / Agents
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-9C27B0?style=flat-square&logo=chainlink&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-FF6F00?style=flat-square&logo=meta&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F89939?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-### 📊 Analytics & BI
+### 📊 Analytics & Data
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
-> DAX · M Query · Row-Level Security (RLS) · Star schema · Power BI Service · ETL pipelines
+> DAX · M Query · Row-Level Security (RLS) · Star schema · ETL pipelines
 
-### ☁️ Cloud & DevOps
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+### ☁️ Cloud, Infra & Web3
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
-## 🚀 Featured Builds
+## 🤖 AI & Agentic Platforms
 
-| Project | What it does | Stack | Impact |
-|---------|-------------|-------|--------|
-| **[DocuMind AI](https://github.com/raghav26102000/DocuMind-AI)** | RAG document intelligence · 1,000+ PDFs · hybrid BM25 + dense · cross-encoder re-ranking | Python · FAISS · LangChain · FastAPI | `87% accuracy` · `<2s @ 500 users` |
-| **Enterprise AI Dashboard** | Multi-tenant AI + analytics for 50+ enterprise clients · agentic workflows | React · Next.js · FastAPI · GCP | `35% latency ↓` |
-| **BI Analytics Suite** | Power BI dashboards · advanced DAX · Row-Level Security · star schema · automated ETL | Power BI · DAX · M Query · SQL | `Multi-role RLS secured` |
-| **[Cross-Platform Mobile](https://github.com/raghav26102000/LivelyThree-App)** | Production Flutter apps for iOS & Android · native Kotlin Android | Flutter · Dart · Kotlin | `iOS + Android` |
-| **[3D Web Experiences](https://github.com/raghav26102000/LivelyThreeEarth)** | Particle systems · GLSL shaders · physics-driven Three.js scenes at 60fps | Three.js · WebGL · GLSL | `60fps interactive` |
-| **[Financial APIs](https://github.com/raghav26102000/AuditFlow)** | Financial-grade REST APIs + dashboards · PostgreSQL optimisation | Python · PostgreSQL · React | `+20% query perf` |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[DocPilot AI](https://github.com/raghav26102000/DocPilotAI)** | Document intelligence platform — RAG over PDFs, semantic search, streaming answers with source citations | LangGraph · LangChain · OpenAI · Next.js · Supabase |
+| **[DocuMind AI — Saral Seva](https://github.com/raghav26102000/DocuMind-AI)** | AI assistant for Indian government welfare schemes — multilingual chatbot (18+ languages), OCR document verification, OTP auth, real-time WebSocket updates | FastAPI · Next.js · MongoDB · Redis · Celery · Docker |
+| **[ReviewBot AI](https://github.com/raghav26102000/ReviewBotAI)** | Automated pull request reviewer — bugs, security, performance, and maintainability checks via GitHub Actions or CLI | Multi-LLM (OpenAI/Anthropic/Gemini/Ollama/Azure) · Python |
+| **[SupportIQ](https://github.com/raghav26102000/SupportIQ)** | AI customer support agent platform — tool calling into order/refund/inventory systems, conversation memory, analytics | OpenAI AgentKit · Python |
+| **[InterviewIQ AI](https://github.com/raghav26102000/InterviewIQ-AI)** | Mock interview simulator — adapts to role, seniority, and interview type; scores responses with actionable feedback | Gemini AI · Next.js |
+| **[MedExplain AI](https://github.com/raghav26102000/MedExplain-AI)** | Turns lab reports (text or scanned) into patient-friendly explanations with a dedicated hallucination-validation layer | Node.js · Tesseract OCR · Gemini |
+
+## 🏢 Enterprise Engineering & Take-Homes
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[AuditFlow](https://github.com/raghav26102000/AuditFlow)** | Enterprise audit management system — real-time multi-user collaboration, barcode tracking, RBAC, Google OAuth | Django REST · React (MUI) · PostgreSQL · Django Channels · AWS S3 |
+| **[LLM Inference Logger](https://github.com/raghav26102000/LLM-inference-logger)** | Full-stack take-home (for Ollive) — multi-provider streaming chat, real-time inference dashboard, resume/cancel flows, K8s deploy | Docker · Kubernetes · BullMQ |
+| **[Insurance Claims API](https://github.com/raghav26102000/CyberBoxer-Assignment)** | Take-home REST API for claims ingestion — async throughout, audited business-rule logic, decoupled migrations | FastAPI (async) · SQLAlchemy 2.0 · Alembic |
+
+## 📊 Data & Analytics
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[SalesInsight Analytics](https://github.com/raghav26102000/SalesInsight-Analytics)** | E-commerce sales analysis — cleaning, KPI generation, and visualization pipeline | Python · Pandas · Matplotlib |
+| **BI Analytics Suite** | Power BI dashboards for enterprise clients — advanced DAX, row-level security, automated ETL | Power BI · DAX · SQL |
+
+## 📱 Mobile & Cross-Platform
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[The Lively Three](https://github.com/raghav26102000/LivelyThree-App)** | Plant-based nutrition & wellness tracker — health metrics, mood insights, community benchmarks | Flutter · Dart · Firebase · Supabase |
+| **[The Lively Three — Web](https://github.com/raghav26102000/LivelyThreeEarth)** | Web companion for fiber/protein/micronutrient tracking, built around citizen data ownership | React · Vite · TypeScript |
+
+## ⛓️ Web3 & Product Case Studies
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **[Krypt](https://github.com/raghav26102000/Krypt)** | ETH transfer dApp — MetaMask wallet connect, on-chain message + keyword tagging, full transaction history | Solidity · Hardhat · Ethers.js · React |
+| **[TheMistriHub](https://github.com/raghav26102000/The-Mistri-Hub)** | E-commerce platform for home services and tools, with a full admin panel | React · Firebase · Redux Toolkit |
+| **[Subspace.money Teardown](https://github.com/raghav26102000/subspace-product-teardown)** | Full product teardown for a PM take-home — trust architecture, monetization, growth constraints, backed by live screenshots | Product strategy · UX research |
+
+---
+
+## 🚧 Building (Stealth)
+
+Two SaaS products currently in active development — details under wraps until launch.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raghav26102000&theme=onedark&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
