@@ -22,6 +22,16 @@
 
 <br/>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghav26102000/raghav26102000/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghav26102000/raghav26102000/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/raghav26102000/raghav26102000/output/github-snake.svg" />
+</picture>
+</div>
+
+<br/>
+
 ---
 
 ## `❯ cat profile.ts`
@@ -150,13 +160,12 @@ Two SaaS products currently in active development — details under wraps until 
 
 <div align="center">
 
-![Trophies](./profile/trophy.svg)
 ![GitHub Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
 </div>
 
-<sub>All three cards are generated nightly by a GitHub Action in this repo and committed as static SVGs — no dependency on a third party's uptime for any of them.</sub>
+
 
 ---
 
