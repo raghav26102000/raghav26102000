@@ -54,7 +54,7 @@ const developer = {
 ## `❯ node metrics.js`
 
 ```bash
-✓  API latency       ↓ 35%    # enterprise AI platform — 50+ clients (Cues Simplify IT)
+✓  API latency       ↓ 35%    # enterprise AI platform - 50+ clients (Cues Simplify IT)
 ✓  Query performance ↑ 20%    # PostgreSQL optimisation, financial-grade backends
 ✓  RAG accuracy        87%    # document intelligence pipeline, hybrid retrieval
 ✓  Response time      <2s     # 500 concurrent users, zero downtime
@@ -102,28 +102,28 @@ const developer = {
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[DocPilot AI](https://github.com/raghav26102000/DocPilotAI)** | Document intelligence platform — RAG over PDFs, semantic search, streaming answers with source citations | LangGraph · LangChain · OpenAI · Next.js · Supabase |
-| **[DocuMind AI — Saral Seva](https://github.com/raghav26102000/DocuMind-AI)** | AI assistant for Indian government welfare schemes — multilingual chatbot (18+ languages), OCR document verification, OTP auth, real-time WebSocket updates | FastAPI · Next.js · MongoDB · Redis · Celery · Docker |
-| **[ReviewBot AI](https://github.com/raghav26102000/ReviewBotAI)** | Automated pull request reviewer — bugs, security, performance, and maintainability checks via GitHub Actions or CLI | Multi-LLM (OpenAI/Anthropic/Gemini/Ollama/Azure) · Python |
-| **[SupportIQ](https://github.com/raghav26102000/SupportIQ)** | AI customer support agent platform — tool calling into order/refund/inventory systems, conversation memory, analytics | OpenAI AgentKit · Python |
-| **[InterviewIQ AI](https://github.com/raghav26102000/InterviewIQ-AI)** | Mock interview simulator — adapts to role, seniority, and interview type; scores responses with actionable feedback | Gemini AI · Next.js |
+| **[DocPilot AI](https://github.com/raghav26102000/DocPilotAI)** | Document intelligence platform - RAG over PDFs, semantic search, streaming answers with source citations | LangGraph · LangChain · OpenAI · Next.js · Supabase |
+| **[DocuMind AI - Saral Seva](https://github.com/raghav26102000/DocuMind-AI)** | AI assistant for Indian government welfare schemes - multilingual chatbot (18+ languages), OCR document verification, OTP auth, real-time WebSocket updates | FastAPI · Next.js · MongoDB · Redis · Celery · Docker |
+| **[ReviewBot AI](https://github.com/raghav26102000/ReviewBotAI)** | Automated pull request reviewer - bugs, security, performance, and maintainability checks via GitHub Actions or CLI | Multi-LLM (OpenAI/Anthropic/Gemini/Ollama/Azure) · Python |
+| **[SupportIQ](https://github.com/raghav26102000/SupportIQ)** | AI customer support agent platform - tool calling into order/refund/inventory systems, conversation memory, analytics | OpenAI AgentKit · Python |
+| **[InterviewIQ AI](https://github.com/raghav26102000/InterviewIQ-AI)** | Mock interview simulator - adapts to role, seniority, and interview type; scores responses with actionable feedback | Gemini AI · Next.js |
 | **[MedExplain AI](https://github.com/raghav26102000/MedExplain-AI)** | Turns lab reports (text or scanned) into patient-friendly explanations with a dedicated hallucination-validation layer | Node.js · Tesseract OCR · Gemini |
 
 ## 🏢 Enterprise Engineering & Take-Homes
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[AuditFlow](https://github.com/raghav26102000/AuditFlow)** | Enterprise audit management system — real-time multi-user collaboration, barcode tracking, RBAC, Google OAuth | Django REST · React (MUI) · PostgreSQL · Django Channels · AWS S3 |
-| **[LLM Inference Logger](https://github.com/raghav26102000/LLM-inference-logger)** | Full-stack take-home (for Ollive) — multi-provider streaming chat, real-time inference dashboard, resume/cancel flows, K8s deploy | Docker · Kubernetes · BullMQ |
-| **[Insurance Claims API](https://github.com/raghav26102000/CyberBoxer-Assignment)** | Take-home REST API for claims ingestion — async throughout, audited business-rule logic, decoupled migrations | FastAPI (async) · SQLAlchemy 2.0 · Alembic |
+| **[AuditFlow](https://github.com/raghav26102000/AuditFlow)** | Enterprise audit management system - real-time multi-user collaboration, barcode tracking, RBAC, Google OAuth | Django REST · React (MUI) · PostgreSQL · Django Channels · AWS S3 |
+| **[LLM Inference Logger](https://github.com/raghav26102000/LLM-inference-logger)** | Full-stack take-home (for Ollive) - multi-provider streaming chat, real-time inference dashboard, resume/cancel flows, K8s deploy | Docker · Kubernetes · BullMQ |
+| **[Insurance Claims API](https://github.com/raghav26102000/CyberBoxer-Assignment)** | Take-home REST API for claims ingestion - async throughout, audited business-rule logic, decoupled migrations | FastAPI (async) · SQLAlchemy 2.0 · Alembic |
 
 <details>
 <summary><h2>📊 Data & Analytics</h2></summary>
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[SalesInsight Analytics](https://github.com/raghav26102000/SalesInsight-Analytics)** | E-commerce sales analysis — cleaning, KPI generation, and visualization pipeline | Python · Pandas · Matplotlib |
-| **BI Analytics Suite** | Power BI dashboards for enterprise clients — advanced DAX, row-level security, automated ETL | Power BI · DAX · SQL |
+| **[SalesInsight Analytics](https://github.com/raghav26102000/SalesInsight-Analytics)** | E-commerce sales analysis - cleaning, KPI generation, and visualization pipeline | Python · Pandas · Matplotlib |
+| **BI Analytics Suite** | Power BI dashboards for enterprise clients - advanced DAX, row-level security, automated ETL | Power BI · DAX · SQL |
 
 </details>
 
@@ -132,8 +132,8 @@ const developer = {
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[The Lively Three](https://github.com/raghav26102000/LivelyThree-App)** | Plant-based nutrition & wellness tracker — health metrics, mood insights, community benchmarks | Flutter · Dart · Firebase · Supabase |
-| **[The Lively Three — Web](https://github.com/raghav26102000/LivelyThreeEarth)** | Web companion for fiber/protein/micronutrient tracking, built around citizen data ownership | React · Vite · TypeScript |
+| **[The Lively Three](https://github.com/raghav26102000/LivelyThree-App)** | Plant-based nutrition & wellness tracker - health metrics, mood insights, community benchmarks | Flutter · Dart · Firebase · Supabase |
+| **[The Lively Three - Web](https://github.com/raghav26102000/LivelyThreeEarth)** | Web companion for fiber/protein/micronutrient tracking, built around citizen data ownership | React · Vite · TypeScript |
 
 </details>
 
@@ -142,9 +142,9 @@ const developer = {
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| **[Krypt](https://github.com/raghav26102000/Krypt)** | ETH transfer dApp — MetaMask wallet connect, on-chain message + keyword tagging, full transaction history | Solidity · Hardhat · Ethers.js · React |
+| **[Krypt](https://github.com/raghav26102000/Krypt)** | ETH transfer dApp - MetaMask wallet connect, on-chain message + keyword tagging, full transaction history | Solidity · Hardhat · Ethers.js · React |
 | **[TheMistriHub](https://github.com/raghav26102000/The-Mistri-Hub)** | E-commerce platform for home services and tools, with a full admin panel | React · Firebase · Redux Toolkit |
-| **[Subspace.money Teardown](https://github.com/raghav26102000/subspace-product-teardown)** | Full product teardown for a PM take-home — trust architecture, monetization, growth constraints, backed by live screenshots | Product strategy · UX research |
+| **[Subspace.money Teardown](https://github.com/raghav26102000/subspace-product-teardown)** | Full product teardown for a PM take-home - trust architecture, monetization, growth constraints, backed by live screenshots | Product strategy · UX research |
 
 </details>
 
@@ -152,7 +152,7 @@ const developer = {
 
 ## 🚧 Building (Stealth)
 
-Two SaaS products currently in active development — details under wraps until launch.
+Two SaaS products currently in active development - details under wraps until launch.
 
 ---
 
