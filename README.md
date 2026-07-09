@@ -156,18 +156,18 @@ Two SaaS products currently in active development — details under wraps until 
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <div align="center">
 
 ![GitHub Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
 
-</div>
+</div>-->
 
 
 
----
+
 
 <div align="center">
 
