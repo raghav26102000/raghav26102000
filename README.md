@@ -10,8 +10,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--agarwal26-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-agarwal26)
 [![Profile Views](https://komarev.com/ghpvc/?username=raghav26102000&style=flat-square&color=58D68D&label=Profile+Views)](https://github.com/raghav26102000)
+![Open to Work](https://img.shields.io/badge/Open_to-Full--Stack_%2F_AI_Engineering-58D68D?style=flat-square)
 
 </div>
+
+<br/>
+
+<div align="center">
+<i>I ship end-to-end — from a Solidity contract to a RAG pipeline to a Power BI dashboard with RLS — and I'd rather build the whole thing once than the "safe" half of it twice.</i>
+</div>
+
+<br/>
 
 ---
 
@@ -49,6 +58,7 @@ const developer = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-049EF4?style=flat-square&logo=threedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00B4AB?style=flat-square&logo=dart&logoColor=white)
 
@@ -97,27 +107,36 @@ const developer = {
 | **[LLM Inference Logger](https://github.com/raghav26102000/LLM-inference-logger)** | Full-stack take-home (for Ollive) — multi-provider streaming chat, real-time inference dashboard, resume/cancel flows, K8s deploy | Docker · Kubernetes · BullMQ |
 | **[Insurance Claims API](https://github.com/raghav26102000/CyberBoxer-Assignment)** | Take-home REST API for claims ingestion — async throughout, audited business-rule logic, decoupled migrations | FastAPI (async) · SQLAlchemy 2.0 · Alembic |
 
-## 📊 Data & Analytics
+<details>
+<summary><h2>📊 Data & Analytics</h2></summary>
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **[SalesInsight Analytics](https://github.com/raghav26102000/SalesInsight-Analytics)** | E-commerce sales analysis — cleaning, KPI generation, and visualization pipeline | Python · Pandas · Matplotlib |
 | **BI Analytics Suite** | Power BI dashboards for enterprise clients — advanced DAX, row-level security, automated ETL | Power BI · DAX · SQL |
 
-## 📱 Mobile & Cross-Platform
+</details>
+
+<details>
+<summary><h2>📱 Mobile & Cross-Platform</h2></summary>
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **[The Lively Three](https://github.com/raghav26102000/LivelyThree-App)** | Plant-based nutrition & wellness tracker — health metrics, mood insights, community benchmarks | Flutter · Dart · Firebase · Supabase |
 | **[The Lively Three — Web](https://github.com/raghav26102000/LivelyThreeEarth)** | Web companion for fiber/protein/micronutrient tracking, built around citizen data ownership | React · Vite · TypeScript |
 
-## ⛓️ Web3 & Product Case Studies
+</details>
+
+<details>
+<summary><h2>⛓️ Web3 & Product Case Studies</h2></summary>
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | **[Krypt](https://github.com/raghav26102000/Krypt)** | ETH transfer dApp — MetaMask wallet connect, on-chain message + keyword tagging, full transaction history | Solidity · Hardhat · Ethers.js · React |
 | **[TheMistriHub](https://github.com/raghav26102000/The-Mistri-Hub)** | E-commerce platform for home services and tools, with a full admin panel | React · Firebase · Redux Toolkit |
 | **[Subspace.money Teardown](https://github.com/raghav26102000/subspace-product-teardown)** | Full product teardown for a PM take-home — trust architecture, monetization, growth constraints, backed by live screenshots | Product strategy · UX research |
+
+</details>
 
 ---
 
@@ -132,8 +151,12 @@ Two SaaS products currently in active development — details under wraps until 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=raghav26102000&theme=onedark&no-frame=true&row=1&column=6&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 </div>
+
+
 
 ---
 
