@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<i>I ship end-to-end — from a Solidity contract to a RAG pipeline to a Power BI dashboard with RLS — and I'd rather build the whole thing once than the "safe" half of it twice.</i>
+<i>I ship end-to-end from a Solidity contract to a RAG pipeline to a Power BI dashboard with RLS and I'd rather build the whole thing once than the "safe" half of it twice.</i>
 </div>
 
 <br/>
